@@ -9,6 +9,9 @@
     "supertest": "3.0.0"
   },
   "scripts": {
-    "test": "mocha --recursive tests --exit"
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.16.4"
   }
 }
